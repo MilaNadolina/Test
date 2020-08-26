@@ -1,1 +1,4 @@
-Some text added.
+Some text is added.
+Some more text added.
+Some more more text added.
+Changes to test the Stash command.
